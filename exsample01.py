@@ -1,2 +1,2 @@
 import FreeSimpleGUI as sg
-sg.popup("HELLO WORLD")
+sg.popup_animated("HELLO WORLD")
